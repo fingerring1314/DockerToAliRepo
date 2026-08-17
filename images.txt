@@ -1,1 +1,2 @@
 ghcr.io/cloudnative-pg/postgresql:15-standard-trixie
+postgres:18
