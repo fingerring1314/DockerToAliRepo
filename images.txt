@@ -1,1 +1,3 @@
-postgres:15
+openeuler/openeuler:24.03-lts-sp2
+openeuler/openeuler:22.03-lts
+openeuler/openeuler:20.03-lts
