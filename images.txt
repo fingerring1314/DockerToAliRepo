@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g
+gvenzl/oracle-xe:11
