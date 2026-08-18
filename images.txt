@@ -1,2 +1,1 @@
-registry.suse.com/suse/sle15:15.6
-registry.suse.com/suse/sles12sp5
+mcr.microsoft.com/mssql/server:2022-latest
