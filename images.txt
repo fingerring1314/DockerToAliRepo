@@ -1,3 +1,13 @@
-openeuler/openeuler:24.03-lts-sp2
-openeuler/openeuler:22.03-lts
-openeuler/openeuler:20.03-lts
+centos:7
+centos:8
+rockylinux/rockylinux:8
+rockylinux/rockylinux:9
+ubuntu:20.04
+ubuntu:22.04
+ubuntu:24.04
+debian:buster
+debian:bullseye
+debian:bookworm
+registry.suse.com/suse/sle15:15.4
+registry.suse.com/suse/sle15:15.5
+registry.suse.com/suse/sle15:15.6
