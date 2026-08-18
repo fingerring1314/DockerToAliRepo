@@ -1,6 +1,4 @@
-container-registry.oracle.com/database/enterprise:19.3.0.0
-container-registry.oracle.com/database/enterprise_ru:latest-19
-container-registry.oracle.com/database/express:21.3.0-xe
-container-registry.oracle.com/database/enterprise:21.3.0
 registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g
 quay.io/maksymbilenko/oracle-12c
+registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c
+gvenzl/oracle-xe:21.3.0
